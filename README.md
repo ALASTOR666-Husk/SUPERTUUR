@@ -55,4 +55,4 @@ SUPERTUUR/
 Сайт в развернутом виде представлен на сайте Github Pages и доступен для всех пользоваателей по следующей сылке
 -> https://alastor666-husk.github.io/SUPERTUUR/
 
-Разроботчик - GACHISLAV ELECTRONIC'S (Ярослав Толстухин)
+Разроботчик - GACHISLAV ELECTRONIC'S (Ярослав Толстухин).
